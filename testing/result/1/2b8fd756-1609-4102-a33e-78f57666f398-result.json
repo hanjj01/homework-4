@@ -1,0 +1,54 @@
+{
+  "name": "test_mul[int0]",
+  "status": "passed",
+  "parameters": [
+    {
+      "name": "a",
+      "value": "1"
+    },
+    {
+      "name": "b",
+      "value": "2"
+    },
+    {
+      "name": "expect",
+      "value": "2"
+    }
+  ],
+  "start": 1612928891807,
+  "stop": 1612928891807,
+  "uuid": "c42d030a-8064-41c5-97ef-28c090addc7e",
+  "historyId": "85205d286ef24cf7abc3b68c80392102",
+  "testCaseId": "befdbd757d1f682e8a7ccb0c5209a84d",
+  "fullName": "test_calc.TestDemo#test_mul",
+  "labels": [
+    {
+      "name": "suite",
+      "value": "test_calc"
+    },
+    {
+      "name": "subSuite",
+      "value": "TestDemo"
+    },
+    {
+      "name": "host",
+      "value": "WINDOWS-HTT"
+    },
+    {
+      "name": "thread",
+      "value": "7180-MainThread"
+    },
+    {
+      "name": "framework",
+      "value": "pytest"
+    },
+    {
+      "name": "language",
+      "value": "cpython3"
+    },
+    {
+      "name": "package",
+      "value": "test_calc"
+    }
+  ]
+}

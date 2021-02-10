@@ -1,0 +1,39 @@
+{
+  "uuid": "492d7714-efff-46b9-9f7c-514977e28f51",
+  "children": [
+    "9e5b62a4-13a2-4fa9-b00a-0298431a1578",
+    "5c0f4b3d-09ef-4c56-b037-972e21eef592",
+    "fc7c137b-b802-4b48-86a8-e05c746f9afc",
+    "8d198aac-01b6-4c97-9d7e-ff653d36299c",
+    "11c2d05b-000b-4c1d-a87c-eefd51bbc7ef",
+    "eedf27b2-53c4-4385-8d42-55a8ea5d7efe",
+    "821247b8-c1db-4b93-856e-a7c219b567c5",
+    "23e7394d-da7d-496f-91a9-4d68d9505474",
+    "8eb2d796-d3cc-4341-9dce-5694842e83a9",
+    "022c1fbb-52f7-49f4-9cfd-c5b05a462642",
+    "1588a61d-10f0-4c79-a87a-54f4ac57e6d5",
+    "d9ae717b-04e8-4859-af11-aad270a02f2b",
+    "c42d030a-8064-41c5-97ef-28c090addc7e",
+    "09780ec1-c976-4d2f-a55b-c1f5c0c6b432",
+    "d81a08d7-3589-462f-b722-d5a210443b8b",
+    "b30094d4-2b17-49f4-a266-73f61165986f"
+  ],
+  "befores": [
+    {
+      "name": "xunit_setup_class_fixture_TestDemo",
+      "status": "passed",
+      "start": 1612928891738,
+      "stop": 1612928891739
+    }
+  ],
+  "afters": [
+    {
+      "name": "xunit_setup_class_fixture_TestDemo::0",
+      "status": "passed",
+      "start": 1612928891825,
+      "stop": 1612928891827
+    }
+  ],
+  "start": 1612928891738,
+  "stop": 1612928891827
+}
